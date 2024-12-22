@@ -1,0 +1,15 @@
+---
+---
+
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+
+$content-width: 1200px;
+@import "minima/initialize";
+
+* {
+  box-sizing: border-box;
+}
+
+header, footer {
+  display: none;
+}
