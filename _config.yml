@@ -1,5 +1,5 @@
-name: "Quicksilver0218's Personal Page"
-title: null
+name: "Quicksilver0218's Personal Site"
+title: "Quicksilver0218's Personal Site"
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
