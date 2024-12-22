@@ -6,19 +6,6 @@ title: Quicksilver0218's Site
 Hello! I am Quicksilver0218 ([Github](https://github.com/Quicksilver0218)). You can call me Quicksilver or my real name 'Peter'. Welcome to my site!
 
 ## About Me
-|-----------------+------------+-----------------+----------------|
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------|:-----------|:---------------:|---------------:|
-| First body part |Second cell | Third cell      | fourth cell    |
-| Second line     |foo         | **strong**      | baz            |
-| Third line      |quux        | baz             | bar            |
-|-----------------+------------+-----------------+----------------|
-| Second body     |            |                 |                |
-| 2 line          |            |                 |                |
-|=================+============+=================+================|
-| Footer row      |            |                 |                |
-|-----------------+------------+-----------------+----------------|
-
 | Property | Description |
 | --- | --- |
 | Age | 27 years old. |
