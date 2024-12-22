@@ -28,4 +28,4 @@ Hello! I am Quicksilver0218 ([Github](https://github.com/Quicksilver0218)). You 
 Coming Soon
 
 ## Contact Me
-If you want to work with or hire me, contact me at peterho0218@yahoo.com.hk.
+If you want to work with or hire me, contact me at [peterho0218@yahoo.com.hk](mailto:peterho0218@yahoo.com.hk).
