@@ -1,10 +1,11 @@
 name: "Quicksilver0218's Personal Page"
 title: null
-theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
 minima:
   skin: dark
-plugins:
-  - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
