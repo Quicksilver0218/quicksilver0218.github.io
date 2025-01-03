@@ -18,6 +18,9 @@ Hello! I am Quicksilver0218 ([Github](https://github.com/Quicksilver0218)). You 
 | Work Experience | 4.5 years. |
 | Interest | Playing, designing and developing games. |
 
+# Motto
+### *If there is no place for me in this world, I will create one myself.*
+
 ## Personal Projects
 ### Public Projects
 - [Object-Validator](https://github.com/Quicksilver0218/Object-Validator): A library providing functions that let users validate the values in objects with JSON-formatted rules.
