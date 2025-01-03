@@ -11,7 +11,7 @@ The implementation is based on the [article](https://www.nature.com/articles/nat
 published to Nature by David Silver, Julian Schrittwieser, Karen Simonyan et al.
 
 Here is a demonstration with Tic-Tac-Toe.
-![螢幕擷取畫面 2025-01-03 212709](https://github.com/user-attachments/assets/3afbe0a9-001d-4138-9665-11442475f8b8)
+![螢幕擷取畫面 2025-01-03 212709](https://github.com/user-attachments/assets/6dbb1e97-ba1a-4a30-a780-46722118cba8)
 
 You can download the file and run the demonstration program yourself.
 [AlphaZero Tic-Tac-Toe Demo.zip](https://github.com/user-attachments/files/18300180/AlphaZero.Tic-Tac-Toe.Demo.zip)
