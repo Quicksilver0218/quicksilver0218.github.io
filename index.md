@@ -29,7 +29,11 @@ Hello! I am Quicksilver0218 ([Github](https://github.com/Quicksilver0218)). You 
 - [Held-Karp](https://github.com/Quicksilver0218/Held-Karp): A Held-Karp algorithm implementation written in C#.
 
 ### Private Projects (only demonstration provided)
-Coming Soon
+- [Calculator](/calculator): A calculator mobile app for iOS.
+- [API Alarm](/api-alarm): An Android app that allows users to send HTTP(S) requests periodically and trigger alarms depending on the responses.
+- [AlphaZero](/alphazero): A simplified AlphaZero implementation written in Python with TensorFlow and Keras.
+
+More projects are coming soon.
 
 ## Contact Me
 If you want to work with or hire me, contact me at [peterho0218@yahoo.com.hk](mailto:peterho0218@yahoo.com.hk).
