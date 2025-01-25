@@ -23,7 +23,7 @@ Hello! I am Quicksilver0218 ([Github](https://github.com/Quicksilver0218)). You 
 
 ## Personal Projects
 ### Public Projects
-- [Object-Validator](https://github.com/Quicksilver0218/Object-Validator): A library providing functions that let users validate the values in objects with JSON-formatted rules.
+- [Object-Validator](https://github.com/Quicksilver0218/Object-Validator): A library providing functions that let users validate the values in objects with YAML-formatted rules.
 - [Nextjs-Material-UI-Template](https://github.com/Quicksilver0218/Nextjs-Material-UI-Template): A Next.js project template with TypeScript, SASS, Material UI installed and some common utility code included.
 - [React-Pagin](https://github.com/Quicksilver0218/React-Pagin): A lightweight element organizing React component that allows high customization for pagination.
 - [Held-Karp](https://github.com/Quicksilver0218/Held-Karp): A Held-Karp algorithm implementation written in C#.
