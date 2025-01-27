@@ -5,7 +5,7 @@ permalink: /sudoku
 ---
 
 # Sudoku
-A web-based Sudoku puzzle solver and generator. ([Link](https://quicksilver-public.s3.ap-east-1.amazonaws.com/sudoku/index.html))
+A web-based Sudoku puzzle solver and generator. ([Link](https://quicksilver-public.s3.ap-east-1.amazonaws.com/sudoku/index.html){:target="_blank"})
 
 ![image](https://github.com/user-attachments/assets/24c483cb-d230-4e99-9fbe-3ab67015a9a4)
 
