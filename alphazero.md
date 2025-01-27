@@ -20,7 +20,7 @@ You can download the file and run the demonstration program yourself.
 To run the program, you should have the prerequisites listed below.
 
 ## Softwares
-- NVIDIA CUDA 11.2 ([Download Link](https://developer.nvidia.com/cuda-toolkit-archive){:target="_blank" rel="noopener noreferrer"})
+- NVIDIA CUDA 11.2 ([Download](https://developer.nvidia.com/cuda-toolkit-archive){:target="_blank" rel="noopener noreferrer"})
 - Python 3.10
 
 ## Python Packages
