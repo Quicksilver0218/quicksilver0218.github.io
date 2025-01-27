@@ -23,10 +23,10 @@ Hello! I am Quicksilver0218 ([Github](https://github.com/Quicksilver0218){:targe
 
 ## Personal Projects
 ### Public Projects
-- [Object-Validator](https://github.com/Quicksilver0218/Object-Validator){:target="_blank"}: A library providing functions that let users validate the values in objects with YAML-formatted rules.
-- [Nextjs-Material-UI-Template](https://github.com/Quicksilver0218/Nextjs-Material-UI-Template){:target="_blank"}: A Next.js project template with TypeScript, SASS, Material UI installed and some common utility code included.
-- [React-Pagin](https://github.com/Quicksilver0218/React-Pagin){:target="_blank"}: A lightweight element organizing React component that allows high customization for pagination.
-- [Held-Karp](https://github.com/Quicksilver0218/Held-Karp){:target="_blank"}: A Held-Karp algorithm implementation written in C#.
+- [Object-Validator](https://github.com/Quicksilver0218/Object-Validator){:target="_blank" rel="noopener"}: A library providing functions that let users validate the values in objects with YAML-formatted rules.
+- [Nextjs-Material-UI-Template](https://github.com/Quicksilver0218/Nextjs-Material-UI-Template){:target="_blank" rel="noopener"}: A Next.js project template with TypeScript, SASS, Material UI installed and some common utility code included.
+- [React-Pagin](https://github.com/Quicksilver0218/React-Pagin){:target="_blank" rel="noopener"}: A lightweight element organizing React component that allows high customization for pagination.
+- [Held-Karp](https://github.com/Quicksilver0218/Held-Karp){:target="_blank" rel="noopener"}: A Held-Karp algorithm implementation written in C#.
 
 ### Private Projects (only demonstration provided)
 - [Calculator](/calculator): A calculator mobile app for iOS.
