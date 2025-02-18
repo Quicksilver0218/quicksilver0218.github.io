@@ -9,7 +9,7 @@ Hello! I am Quicksilver0218 ([Github](https://github.com/Quicksilver0218){:targe
 
 | Property | Description |
 | --- | --- |
-| Age | 27 years old. |
+| Age | 28 years old. |
 | Gender | Male. |
 | Location | Hong Kong, China. |
 | Language | Chinese and English. |
