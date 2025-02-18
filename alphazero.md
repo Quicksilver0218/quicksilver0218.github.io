@@ -13,7 +13,7 @@ published to Nature by David Silver, Julian Schrittwieser, Karen Simonyan et al.
 Here is a demonstration with Tic-Tac-Toe.
 ![螢幕擷取畫面 2025-01-03 212709](https://github.com/user-attachments/assets/6dbb1e97-ba1a-4a30-a780-46722118cba8)
 
-You can run the demonstration program on [Kaggle](https://www.kaggle.com/code/quicksilver0218/alphazero-tic-tac-toe-demo){:target="_blank" rel="noopener noreferrer"}.
+You can run the demonstration program on [Kaggle](https://www.kaggle.com/code/quicksilver0218/alphazero-tic-tac-toe-demo){:target="_blank" rel="noopener noreferrer"} (an account is required).
 
 You can also download the file to run the demonstration program yourself.
 
