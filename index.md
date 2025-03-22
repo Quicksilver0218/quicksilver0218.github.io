@@ -33,6 +33,7 @@ Hello! I am Quicksilver0218 ([Github](https://github.com/Quicksilver0218){:targe
 - [API Alarm](/api-alarm): An Android app that allows users to send HTTP(S) requests periodically and trigger alarms depending on the responses.
 - [AlphaZero](/alphazero): A simplified AlphaZero implementation written in Python with TensorFlow and Keras.
 - [Sudoku](/sudoku): A web-based Sudoku puzzle solver and generator.
+- [YouTube Video Viewer](/youtube-video-viewer): A YouTube video viewer and downloader with a web UI.
 
 More projects are coming soon.
 
