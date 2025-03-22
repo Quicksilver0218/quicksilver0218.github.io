@@ -9,20 +9,18 @@ A YouTube video viewer and downloader with a web UI. [distubejs/ytdl-core][(http
 
 ![image](https://github.com/user-attachments/assets/95738eba-f1da-43c9-9ecb-a6dea19bad59)
 
-You can also download the file to run the program yourself.
-
-
+You can download the file to run the program in your computer. [Google Drive](https://drive.google.com/file/d/1nD6rCdsyp0Ln5XICK47RxH0uC0dMK0kX/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}
 
 To run the program, you should have [Node.js](https://nodejs.org){:target="_blank" rel="noopener noreferrer"} installed.
 
-Then, you can start with this command and go to [http://localhost:3000](http://localhost:3000){:target="_blank" rel="noopener noreferrer"} in your browser.
+Then, you can run the script in the folder (`run.bat` for Windows or `run.sh` for Linux).
+
+Instead, you can start with this command and go to [http://localhost:3000](http://localhost:3000){:target="_blank" rel="noopener noreferrer"} in your browser.
 ```
 npx next start
 ```
 
-You can also specify the port with the `-p` argument.
+You can also specify the port with the `-p` argument. e.g.
 ```
 npx next start -p 8080
 ```
-
-Instead, you can run the script in the folder (`run.bat` for Windows or `run.sh` for Linux).
