@@ -5,7 +5,7 @@ permalink: /youtube-video-viewer
 ---
 
 # Youtube Video Viewer
-A YouTube video viewer and downloader with a web UI. [distubejs/ytdl-core][(https://developer.nvidia.com/cuda-toolkit-archive](https://github.com/distubejs/ytdl-core)){:target="_blank" rel="noopener noreferrer"} has been used in this project.
+A YouTube video viewer and downloader with a web UI. [distubejs/ytdl-core](https://github.com/distubejs/ytdl-core){:target="_blank" rel="noopener noreferrer"} has been used in this project.
 
 ![image](https://github.com/user-attachments/assets/95738eba-f1da-43c9-9ecb-a6dea19bad59)
 
