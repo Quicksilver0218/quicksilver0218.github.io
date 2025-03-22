@@ -15,7 +15,7 @@ Here is a demonstration with Tic-Tac-Toe.
 
 You can run the demonstration program on [Kaggle](https://www.kaggle.com/code/quicksilver0218/alphazero-tic-tac-toe-demo){:target="_blank" rel="noopener noreferrer"} (an account is required).
 
-You can also download the file to run the program in your computer.
+You can also download the file to run the program on your computer.
 
 [AlphaZero Tic-Tac-Toe Demo.zip](https://github.com/user-attachments/files/18300180/AlphaZero.Tic-Tac-Toe.Demo.zip)
 
