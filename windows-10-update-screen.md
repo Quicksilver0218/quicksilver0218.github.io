@@ -5,7 +5,7 @@ permalink: /windows-10-update-screen
 ---
 
 # Windows 10 Update Screen
-A mock update screen of Windows 10 in web UI. You can use this to prank your friends
+A mock update screen of Windows 10 in web UI. You can use this to prank your friends.
 
 ![image](https://github.com/user-attachments/assets/e84d972d-d7b1-4aeb-8cb7-644ac0bbcfac)
 
