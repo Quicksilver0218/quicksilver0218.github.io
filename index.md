@@ -27,6 +27,7 @@ Hello! I am Quicksilver0218 ([Github](https://github.com/Quicksilver0218){:targe
 - [Nextjs-Material-UI-Template](https://github.com/Quicksilver0218/Nextjs-Material-UI-Template){:target="_blank" rel="noopener"}: A Next.js project template with TypeScript, SASS, Material UI installed and some common utility code included.
 - [React-Pagin](https://github.com/Quicksilver0218/React-Pagin){:target="_blank" rel="noopener"}: A lightweight element organizing React component that allows high customization for pagination.
 - [Held-Karp](https://github.com/Quicksilver0218/Held-Karp){:target="_blank" rel="noopener"}: A Held-Karp algorithm implementation written in C#.
+- [Windows 10 Update Screen](/windows-10-update-sreen): A mock update screen of Windows 10 in web UI.
 
 ### Private Projects (only demonstration provided)
 - [Calculator](/calculator): A calculator mobile app for iOS.
