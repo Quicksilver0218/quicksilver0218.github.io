@@ -3,7 +3,7 @@ layout: home
 title: Quicksilver0218's Site
 ---
 
-Hello! I am Quicksilver0218 ([Github](https://github.com/Quicksilver0218){:target="_blank" rel="noopener"}). You can call me Quicksilver or my real name is Peter. Welcome to my site!
+Hello! I am Quicksilver0218 ([Github](https://github.com/Quicksilver0218){:target="_blank" rel="noopener"}). You can call me Quicksilver or my real name, Peter. Welcome to my site!
 
 ## About Me
 
