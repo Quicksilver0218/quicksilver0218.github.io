@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Windows 10 Update Screen
-permalink: /windows-10-update-screen.md
+permalink: /windows-10-update-screen
 ---
 
 # Windows 10 Update Screen
