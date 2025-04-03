@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Youtube Video Viewer
+title: YouTube Video Viewer
 permalink: /youtube-video-viewer
 ---
 
-# Youtube Video Viewer
+# YouTube Video Viewer
 A YouTube video viewer and downloader with a web UI. [distubejs/ytdl-core](https://github.com/distubejs/ytdl-core){:target="_blank" rel="noopener noreferrer"} has been used in this project.
 
-![image](https://github.com/user-attachments/assets/95738eba-f1da-43c9-9ecb-a6dea19bad59)
+![YouTube Video Viewer](/assets/images/YouTube%20Video%20Viewer.jpg)
 
 You can download the file to run the program on your computer.
 
