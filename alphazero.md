@@ -11,7 +11,7 @@ The implementation is based on the [article](https://www.nature.com/articles/nat
 published to Nature by David Silver, Julian Schrittwieser, Karen Simonyan et al.
 
 Here is a demonstration with Tic-Tac-Toe.
-![螢幕擷取畫面 2025-01-03 212709](https://github.com/user-attachments/assets/6dbb1e97-ba1a-4a30-a780-46722118cba8)
+![AlphaZero with Tic-Tac-Toe](/assets/images/AlphaZero.jpg)
 
 You can run the demonstration program on [Kaggle](https://www.kaggle.com/code/quicksilver0218/alphazero-tic-tac-toe-demo){:target="_blank" rel="noopener noreferrer"} (an account is required).
 
