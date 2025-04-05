@@ -11,7 +11,7 @@ A YouTube video viewer and downloader with a web UI. [distubejs/ytdl-core](https
 
 You can download the file to run the program on your computer.
 
-[YouTube Video Viewer.zip](https://github.com/user-attachments/files/19405667/YouTube.Video.Viewer.zip)
+[YouTube Video Viewer.zip](https://github.com/user-attachments/files/19615153/YouTube.Video.Viewer.zip)
 
 To run the program, you should have [Node.js](https://nodejs.org){:target="_blank" rel="noopener noreferrer"} installed.
 
