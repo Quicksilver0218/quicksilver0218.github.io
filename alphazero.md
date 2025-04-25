@@ -17,7 +17,7 @@ You can run the demonstration program on [Kaggle](https://www.kaggle.com/code/qu
 
 You can also download the file to run the program on your computer.
 
-[AlphaZero Tic-Tac-Toe Demo.zip](https://github.com/user-attachments/files/18300180/AlphaZero.Tic-Tac-Toe.Demo.zip)
+[AlphaZero Tic-Tac-Toe Demo.zip](https://github.com/user-attachments/files/19912981/AlphaZero.Tic-Tac-Toe.Demo.zip)
 
 To run the program, you should have the prerequisites listed below.
 
