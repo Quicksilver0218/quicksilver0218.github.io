@@ -17,7 +17,7 @@ You can run the demonstration program on [Kaggle](https://www.kaggle.com/code/qu
 
 You can also download the file to run the program on your computer.
 
-[AlphaZero Tic-Tac-Toe Demo.zip](https://github.com/user-attachments/files/19959067/AlphaZero.Tic-Tac-Toe.Demo.zip)
+[AlphaZero Tic-Tac-Toe Demo.zip](https://github.com/user-attachments/files/19959299/AlphaZero.Tic-Tac-Toe.Demo.zip)
 
 If you have docker, you can build and run the image by executing `docker build and run.sh`.
 
