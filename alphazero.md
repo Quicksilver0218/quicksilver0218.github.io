@@ -17,9 +17,11 @@ You can run the demonstration program on [Kaggle](https://www.kaggle.com/code/qu
 
 You can also download the file to run the program on your computer.
 
-[AlphaZero Tic-Tac-Toe Demo.zip](https://github.com/user-attachments/files/19946064/AlphaZero.Tic-Tac-Toe.Demo.zip)
+[AlphaZero Tic-Tac-Toe Demo.zip](https://github.com/user-attachments/files/19959067/AlphaZero.Tic-Tac-Toe.Demo.zip)
 
-To run the program, you should have the prerequisites listed below.
+If you have docker, you can build and run the image by executing `docker build and run.sh`.
+
+You may also run the program directly on your machine. To run the program, you should have the prerequisites listed below.
 
 ## Softwares
 - NVIDIA CUDA 11.2 ([Download](https://developer.nvidia.com/cuda-toolkit-archive){:target="_blank" rel="noopener noreferrer"})
